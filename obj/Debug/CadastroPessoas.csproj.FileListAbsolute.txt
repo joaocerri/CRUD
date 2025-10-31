@@ -1,0 +1,16 @@
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\CadastroPessoas\bin\Debug\ContaBancaria.exe.config
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\CadastroPessoas\bin\Debug\ContaBancaria.exe
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\CadastroPessoas\bin\Debug\ContaBancaria.pdb
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.AssemblyReference.cache
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\CadastroPessoas\obj\Debug\ContaBancaria.exe.config
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\CadastroPessoas\obj\Debug\ContaBancaria.FormCadastro.resources
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\CadastroPessoas\obj\Debug\ContaBancaria.FormExcluir.resources
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\CadastroPessoas\obj\Debug\ContaBancaria.FormPesquisar.resources
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\CadastroPessoas\obj\Debug\ContaBancaria.FormPrincipal.resources
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\CadastroPessoas\obj\Debug\ContaBancaria.Properties.Resources.resources
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.GenerateResource.cache
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CoreCompileInputs.cache
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\CadastroPessoas\obj\Debug\ContaBancaria.exe
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\CadastroPessoas\obj\Debug\ContaBancaria.pdb
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\CadastroPessoas\obj\Debug\ContaBancaria.FormEditar.resources
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\CadastroPessoas\obj\Debug\ContaBancaria.FormListar.resources

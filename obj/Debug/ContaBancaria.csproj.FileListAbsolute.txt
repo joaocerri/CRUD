@@ -1,0 +1,11 @@
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\ContaBancaria\bin\Debug\ContaBancaria.exe.config
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\ContaBancaria\bin\Debug\ContaBancaria.exe
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\ContaBancaria\bin\Debug\ContaBancaria.pdb
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\ContaBancaria\obj\Debug\ContaBancaria.csproj.AssemblyReference.cache
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\ContaBancaria\obj\Debug\ContaBancaria.FormPrincipal.resources
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\ContaBancaria\obj\Debug\ContaBancaria.Properties.Resources.resources
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\ContaBancaria\obj\Debug\ContaBancaria.csproj.GenerateResource.cache
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\ContaBancaria\obj\Debug\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\ContaBancaria\obj\Debug\ContaBancaria.exe
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\ContaBancaria\obj\Debug\ContaBancaria.pdb
+C:\Users\joao\Documents\GitHub\Treinando-Cs\ex-visuais\ContaBancaria\obj\Debug\ContaBancaria.exe.config

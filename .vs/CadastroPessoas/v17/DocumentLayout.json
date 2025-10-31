@@ -1,0 +1,430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formlistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:formlistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formlistar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:formlistar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formpesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:formpesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formlistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:formlistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formexcluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:formexcluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:formeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|c:\\users\\joao\\documents\\github\\treinando-cs\\ex-visuais\\cadastropessoas\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|c:\\users\\joao\\documents\\github\\treinando-cs\\ex-visuais\\cadastropessoas\\properties\\datasources\\cadastro.datasource||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:properties\\datasources\\cadastro.datasource||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:formeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formpesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:formpesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formexcluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:formexcluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formpesquisar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:formpesquisar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formeditar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:formeditar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formexcluir.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:formexcluir.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formcadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|CadastroPessoas.csproj|solutionrelative:formcadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|ContaBancaria.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|ContaBancaria.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|ContaBancaria.csproj|C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{055F01D1-8CC3-435B-8C73-2A002B6B7DEC}|ContaBancaria.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "FormPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:54:14.89Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPesquisar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormPesquisar.cs",
+              "RelativeDocumentMoniker": "FormPesquisar.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormPesquisar.cs [Design]",
+              "RelativeToolTip": "FormPesquisar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T23:59:48.866Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormListar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormListar.cs",
+              "RelativeDocumentMoniker": "FormListar.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormListar.cs [Design]",
+              "RelativeToolTip": "FormListar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:04:25.929Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormListar.cs",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormListar.cs",
+              "RelativeDocumentMoniker": "FormListar.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormListar.cs",
+              "RelativeToolTip": "FormListar.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAASwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:49:32.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormListar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormListar.Designer.cs",
+              "RelativeDocumentMoniker": "FormListar.Designer.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormListar.Designer.cs",
+              "RelativeToolTip": "FormListar.Designer.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAhwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:49:53.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormExcluir.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormExcluir.cs",
+              "RelativeDocumentMoniker": "FormExcluir.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormExcluir.cs [Design]",
+              "RelativeToolTip": "FormExcluir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:51:25.961Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormEditar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormEditar.cs",
+              "RelativeDocumentMoniker": "FormEditar.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormEditar.cs [Design]",
+              "RelativeToolTip": "FormEditar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T23:51:18.002Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormCadastro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormCadastro.cs",
+              "RelativeDocumentMoniker": "FormCadastro.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormCadastro.cs [Design]",
+              "RelativeToolTip": "FormCadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:51:25.75Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-31T01:56:01.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cadastro.datasource",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\Properties\\DataSources\\Cadastro.datasource",
+              "RelativeDocumentMoniker": "Properties\\DataSources\\Cadastro.datasource",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\Properties\\DataSources\\Cadastro.datasource",
+              "RelativeToolTip": "Properties\\DataSources\\Cadastro.datasource",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-10-30T14:31:07.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormEditar.cs",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormEditar.cs",
+              "RelativeDocumentMoniker": "FormEditar.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormEditar.cs",
+              "RelativeToolTip": "FormEditar.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwC8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T00:03:25.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormPesquisar.cs",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormPesquisar.cs",
+              "RelativeDocumentMoniker": "FormPesquisar.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormPesquisar.cs",
+              "RelativeToolTip": "FormPesquisar.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T11:51:22.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormExcluir.cs",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormExcluir.cs",
+              "RelativeDocumentMoniker": "FormExcluir.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormExcluir.cs",
+              "RelativeToolTip": "FormExcluir.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T19:06:06.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Pessoa.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\Pessoa.cs",
+              "RelativeToolTip": "Pessoa.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADgvyIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T00:01:13.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Cadastro.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\Cadastro.cs",
+              "RelativeToolTip": "Cadastro.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T19:07:39.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormCadastro.cs",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormCadastro.cs",
+              "RelativeDocumentMoniker": "FormCadastro.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormCadastro.cs",
+              "RelativeToolTip": "FormCadastro.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T13:03:47.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:43:40.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormPrincipal.cs",
+              "RelativeToolTip": "FormPrincipal.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAApwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:18:33.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormPesquisar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormPesquisar.Designer.cs",
+              "RelativeDocumentMoniker": "FormPesquisar.Designer.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormPesquisar.Designer.cs",
+              "RelativeToolTip": "FormPesquisar.Designer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAhwLQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T11:56:19.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormEditar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormEditar.Designer.cs",
+              "RelativeDocumentMoniker": "FormEditar.Designer.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormEditar.Designer.cs",
+              "RelativeToolTip": "FormEditar.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAhwE4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T11:54:08.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormExcluir.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormExcluir.Designer.cs",
+              "RelativeDocumentMoniker": "FormExcluir.Designer.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormExcluir.Designer.cs",
+              "RelativeToolTip": "FormExcluir.Designer.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAhwL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T23:57:03.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormCadastro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormCadastro.Designer.cs",
+              "RelativeDocumentMoniker": "FormCadastro.Designer.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormCadastro.Designer.cs",
+              "RelativeToolTip": "FormCadastro.Designer.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAIAwwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:08:31.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormPrincipal.cs",
+              "RelativeToolTip": "FormPrincipal.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAApwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T21:03:19.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\CadastroPessoas\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\Treinando-Cs\\ex-visuais\\ContaBancaria\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "..\\ContaBancaria\\FormPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T20:10:11.608Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
